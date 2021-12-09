@@ -10,6 +10,8 @@ pyshp = "*"
 pandas = "*"
 numpy = "*"
 matplotlib = "*"
+pyproj = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
